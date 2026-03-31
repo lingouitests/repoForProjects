@@ -10,6 +10,8 @@ class Add3 {
 //rererereryukoiloilouikyujrwawf
     
     String ua = user + " is " + age + " years old.";
+
+     String n = user + " is " + age + " years old.";
     System.out.println(String.format("nana %s", eee));
 
 
