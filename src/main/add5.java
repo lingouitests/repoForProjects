@@ -10,6 +10,7 @@ class Add5 {
 //rererereryukoiloilouikyujrwawf
     
     String ua = user + " is " + age + " years old.";
+        String rr = users + " are " + age + " years old.";
     System.out.println(String.format("nana %s", ccc));
 
 
