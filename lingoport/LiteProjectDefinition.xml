@@ -4,7 +4,8 @@
   <login>
     <username></username>
     <password></password>
-    <server>https://globalyzer.com/gzserver</server>
+    <!-- <server>https://globalyzer.com/gzserver</server> -->
+    <server>https://globalyzer.lingoport.net/gzserver</server>
     <optional>
       <proxy-user></proxy-user>
       <proxy-password></proxy-password>
