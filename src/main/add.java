@@ -13,6 +13,9 @@ class Add {
     System.out.println(String.format("nana %s", bbb));
 
  String ee = user + " is " + age + " years old.";
+     String ee2 = user + " is " + age + " years old.";
+     String ee3 = user + " is " + age + " years old.";
+     String ee4 = user + " is " + age + " years old.";
 //rererererererere
     
   }
