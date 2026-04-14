@@ -38,7 +38,9 @@
         <start-ignore>GLOBALYZER_START_IGNORE</start-ignore>
         <end-ignore>GLOBALYZER_END_IGNORE</end-ignore>
       </comments>
-      <scan-items/>
+      <scan-items>
+       <item>src/main/add.java</item>
+    </scan-items>
     </scan>
   </scans>
 </gzproject>
